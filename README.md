@@ -1,2 +1,3 @@
 # advice-game
-Created with CodeSandbox
+click get advice
+
